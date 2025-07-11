@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: 'IRANSans';
+    src: url('C:\Users\digiland\S.C.F.E.R.S\public\fonts\A-Iranian-Sans\IranianSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+    font-family: 'IRANSans', sans-serif;
+    direction: ltr; /* if the whole page is Persian */
+    text-align: right;
+}

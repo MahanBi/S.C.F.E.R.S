@@ -1,0 +1,1 @@
+<?php /**PATH C:\Users\digiland\S.C.F.E.R.S\resources\views\components\application-logo.blade.php ENDPATH**/ ?>
